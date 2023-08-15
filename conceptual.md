@@ -5,7 +5,7 @@ Answer the following questions below:
 - What is React? When and why would you use it?
 React is a front-end framework. It's used to build applications and makes it eaier to view components
 - What is Babel?
-##Babel is part of JSX and a standalone library. 
+Babel is part of JSX and a standalone library. 
 - What is JSX?
 JSX is Javascript syntax extension. JSX is like HTML embedded in JS. 
 - How is a Component created in React?
